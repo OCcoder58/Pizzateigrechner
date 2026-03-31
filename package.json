@@ -1,0 +1,12 @@
+{
+  "name": "pizza-rechner",
+  "version": "1.0.0",
+  "description": "Ein einfacher Pizza-Rezeptrechner für New York Slice Teig",
+  "main": "dist/script.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
